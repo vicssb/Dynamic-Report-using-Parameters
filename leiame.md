@@ -1,94 +1,90 @@
-<img src="./img/gif v1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="./img/gif v1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer iuriCode">
 <p>
-<div align="right"> 
+<div align="right">
 <a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
 </div>
-  <H1><b> Victor Sérgio Silva Barros </b> </H1>
-</p> 
+ <H1><b> Victor Sérgio Silva Barros </b> </H1>
+</p>
 
 <div align="top" style="display: flex; justify-content: space-between;">
-  <img src="./img/artificial-intelligence.png" alt="Logo Inteligência Artificial" width="80"/>
-  <img src="./img/yolo.png" alt="Logo Yolo" width="80"/>
-  <img src="./img/TensorFlow.png" alt="Logo TensorFlow" width="80"/>
-  
+ <img src="./img/dio.png" alt="Logo DIO" width="80"/>
+<img src="./img/artificial-intelligence.png" alt="Logo Artificial Intelligence" width="80"/>
+<img src="./img/yolo.png" alt="Logo Yolo" width="80"/>
+<img src="./img/TensorFlow.png" alt="Logo TensorFlow" width="80"/>
+
 </div>
 
+# Dynamic Report using Parameters
 
-# Criação de uma Base de Dados e Treinamento da Rede YOLO
+Este projeto tem como objetivo modificar o relatório criativo inicial, focando na experiência do usuário. As alterações foram realizadas com base nos conceitos apresentados no curso, incluindo posicionamento, contraste, proporção áurea e segmentação dos dados.
 
-Este projeto tem como objetivo criar uma base de dados e realizar o treinamento da rede YOLO (You Only Look Once), uma das arquiteturas mais populares para detecção de objetos em tempo real.
+## Objetivo do Desafio
 
-## Introdução
+O desafio consiste em criar um relatório dinâmico e interativo no Power BI, aplicando os seguintes conceitos:
 
-A rede YOLO é amplamente utilizada em aplicações de visão computacional devido à sua capacidade de realizar detecção de objetos com alta precisão e velocidade. Este projeto aborda os passos necessários para criar uma base de dados personalizada e treinar a rede YOLO para atender a necessidades específicas.
+- **Posicionamento**: Organizar os elementos de forma clara e intuitiva.
+- **Contraste**: Utilizar cores e estilos para destacar informações importantes.
+- **Proporção Áurea**: Aplicar princípios de design para criar um layout visualmente agradável.
+- **Segmentação dos Dados**: Dividir as informações de forma lógica e acessível.
 
-## Estrutura do Projeto
+Além disso, o desafio incentiva a criatividade, permitindo que as regras sejam quebradas quando necessário para criar um relatório mais interessante e único.
 
-1. **Criação da Base de Dados**:
-   - Coleta de imagens.
-   - Anotação das imagens utilizando ferramentas como LabelImg.
-   - Organização dos dados em pastas para treinamento e validação.
+## Próximos Passos
 
-2. **Treinamento da Rede YOLO**:
-   - Configuração do ambiente de treinamento.
-   - Ajuste dos hiperparâmetros.
-   - Execução do treinamento e avaliação dos resultados.
+1. **Inserir Botões de Navegabilidade**:
+   - Adicionar botões para facilitar a navegação entre as páginas do relatório.
 
-## Requisitos
+2. **Modificar a Segunda Página**:
+   - Ajustar o layout e o design da segunda página de forma similar ao demonstrado no desafio para a primeira página.
 
-- Python 3.7 ou superior.
-- Biblioteca OpenCV.
-- Framework TensorFlow ou PyTorch.
-- Ferramenta de anotação de imagens (ex.: LabelImg).
+3. **Aprimorar os Botões de Navegabilidade**:
+   - Destacar os botões para facilitar o foco e a seleção.
 
-## Uso no notebook
-718 minutos
+4. **Criar Menus de Navegabilidade**:
+   - Adicionar menus em cada página para melhorar a experiência do usuário.
 
-## Uso no Google Colab
-33 minutos
-Para facilitar o treinamento, você pode utilizar o notebook disponível no Google Colab: [Transfer Learning Notebook](https://github.com/vicssb/Training-Neural-Networks-with-Transfer-Learning/blob/main/notebooks/transfer-learning.ipynb).
+5. **Estilo Livre para os Botões**:
+   - Personalizar o estilo dos botões de acordo com a criatividade do desenvolvedor.
 
-## Imagens
+6. **Relatório com 3 Páginas**:
+   - Garantir que o relatório final seja composto por três páginas interativas.
 
-![Inteligência Artificial](./img/artificial-intelligence.png)
+## Considerações Finais
 
-## Referência
+Este projeto é uma oportunidade para aplicar conceitos de design e usabilidade no Power BI, criando relatórios que não apenas apresentam dados, mas também proporcionam uma experiência visual e interativa para o usuário.
 
-Para mais detalhes, consulte o laboratório original: [Criação de uma Base de Dados e Treinamento da Rede YOLO](https://web.dio.me/lab/criacao-de-uma-base-de-dados-e-treinamento-da-rede-yolo/learning/7400ba5c-9fd7-42cd-aefe-131acfe198cb).
+> **Nota**: Para mais detalhes sobre o processo de criação, acompanhe o vídeo explicativo fornecido no curso.
 
-## Resultados
+---
 
-Após o treinamento, o desempenho do modelo será avaliado, e os resultados serão exibidos. Você pode visualizar o processo de treinamento e os resultados usando o TensorBoard.
+<p align="center">
+  <img src="./img/LogoUK.png" alt="Logo UK" width="30"/>
+  <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/>
+</p>
 
-  <img src="./img/Accuracy - Loss.png" alt="Gráfico de Acurácia - Perda" width="200"/>
+## License
 
-## Licença
+This project is licensed under the MIT License.
 
-Este projeto está licenciado sob a Licença MIT.
+## Version control
 
-## Controle de versão
- 
 1.0.0
- 
- 
-## Autor
- 
-**Victor Sérgio Silva Barros**: 
 
+## Author
+
+**Victor Sérgio Silva Barros**:
 
 <p align="left">
-  <a href="mailto:vicssb@gmail.com" alt="Gmail" target = "_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:vicssb@gmail.com" /></a>
+ <a href="mailto:vicssb@gmail.com" alt="Gmail" target = "_blank">
+ <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:vicssb@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/victor-sergio-silva-barros/" alt="Linkedin" target = "_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-sergio-silva-barros/" /></a>
+ <a href="https://www.linkedin.com/in/victor-sergio-silva-barros/" alt="Linkedin" target = "_blank">
+ <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-sergio-silva-barros/" /></a>
 
-  <a href="https://wa.me/+5512981328278" alt="WhatsApp" target = "_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5512987085327"/></a>
+ <a href="https://wa.me/+5512981328278" alt="WhatsApp" target = "_blank">
+ <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5512987085327"/></a>
 
-  </p>  
+ </p>
 
-<p>Por favor, siga o github e junte-se a nós!
-Obrigado pela visita e boa codificação!</p>
-
-
+<p>Please follow github and join us!
+Thanks for visiting and happy coding!</p>

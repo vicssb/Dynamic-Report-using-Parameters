@@ -14,77 +14,74 @@
 
 </div>
 
-# Creating a Database and Training the YOLO Network
+# Dynamic Report using Parameters
 
-This project aims to create a database and train the YOLO (You Only Look Once) network, one of the most popular architectures for real-time object detection.
+This project aims to modify the initial creative report, focusing on the user experience. The changes were made based on the concepts presented in the course, including positioning, contrast, the golden ratio, and data segmentation.
 
-## Introduction
+## Challenge Objective
 
-The YOLO network is widely used in computer vision applications due to its ability to perform object detection with high accuracy and speed. This project covers the steps required to create a custom database and train the YOLO network to meet specific needs.
+The challenge consists of creating a dynamic and interactive report in Power BI, applying the following concepts:
 
-## Project Structure
+- **Positioning**: Organize elements in a clear and intuitive way.
+- **Contrast**: Use colors and styles to highlight important information.
+- **Golden Ratio**: Apply design principles to create a visually pleasing layout.
+- **Data Segmentation**: Divide information logically and accessibly.
 
-1. **Database Creation**:
-- Collect images.
-- Annotate images using tools such as LabelImg.
-- Organize data into folders for training and validation.
+Additionally, the challenge encourages creativity, allowing rules to be broken when necessary to create a more interesting and unique report.
 
-2. **YOLO Network Training**:
-- Set up the training environment.
-- Tune hyperparameters.
-- Run training and evaluate results.
+## Next Steps
 
-## Requirements
+1. **Insert Navigation Buttons**:
+   - Add buttons to facilitate navigation between the report pages.
 
-- Python 3.7 or higher.
-- OpenCV library.
-- TensorFlow or PyTorch framework.
-- Image annotation tool (e.g., LabelImg).
+2. **Modify the Second Page**:
+   - Adjust the layout and design of the second page similarly to what was demonstrated in the challenge for the first page.
 
-## Usage on Google Colab
+3. **Enhance Navigation Buttons**:
+   - Highlight the buttons to make focusing and selecting easier.
 
-To facilitate training, you can use the notebook available on Google Colab: [Transfer Learning Notebook](https://github.com/vicssb/Training-Neural-Networks-with-Transfer-Learning/blob/main/notebooks/transfer-learning.ipynb).
+4. **Create Navigation Menus**:
+   - Add menus on each page to improve the user experience.
 
-## Images
+5. **Free Button Styling**:
+   - Customize the button style according to the developer's creativity.
 
-![DIO](./img/dio.png)
-![Artificial Intelligence](./img/artificial-intelligence.png)
+6. **Report with 3 Pages**:
+   - Ensure the final report consists of three interactive pages.
 
-## Reference
+## Final Considerations
 
-For more details, see the original lab: [Creating a Database and Training the YOLO Network](https://web.dio.me/lab/criacao-de-uma-base-de-dados-e-treinamento-da-rede-yolo/learning/7400ba5c-9fd7-42cd-aefe-131acfe198cb).
+This project is an opportunity to apply design and usability concepts in Power BI, creating reports that not only present data but also provide a visual and interactive experience for the user.
 
-## Results
+> **Note**: For more details about the creation process, watch the explanatory video provided in the course.
 
-After training, the model's performance will be evaluated, and the results will be displayed. You can visualize the training process and results using TensorBoard.
+---
 
-<img src="./img/Accuracy - Loss.png" alt="Accuracy - Loss Plot" width="200"/>
+<p align="center">
+  <img src="./img/LogoUK.png" alt="Logo UK" width="30"/>
+  <img src="./img/logoBrazil.png" alt="Logo Brazil" width="30"/>
+</p>
 
 ## License
 
 This project is licensed under the MIT License.
 
-## Version control
+## Version Control
 
 1.0.0
-
 
 ## Author
 
 **Victor Sérgio Silva Barros**:
 
-
 <p align="left">
- <a href="mailto:vicssb@gmail.com" alt="Gmail" target = "_blank">
+ <a href="mailto:vicssb@gmail.com" alt="Gmail" target="_blank">
  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:vicssb@gmail.com" /></a>
 
- <a href="https://www.linkedin.com/in/victor-sergio-silva-barros/" alt="Linkedin" target = "_blank">
- <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-sergio-silva-barros/" /></a>
+ <a href="https://www.linkedin.com/in/victor-sergio-silva-barros/" alt="LinkedIn" target="_blank">
+ <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/victor-sergio-silva-barros/" /></a>
 
- <a href="https://wa.me/+5512981328278" alt="WhatsApp" target = "_blank">
+ <a href="https://wa.me/+5512981328278" alt="WhatsApp" target="_blank">
  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5512987085327"/></a>
 
  </p>
-
-<p>Please follow github and join us!
-Thanks for visiting and happy coding!</p>
